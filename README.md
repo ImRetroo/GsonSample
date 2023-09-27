@@ -12,9 +12,7 @@ Implementar una aplicación Java creando el proyecto con Maven desde Eclipse.
 
 Y los guardará en la clase **Persona**.
 
-`Persona p = new Persona();  
-
-// TODO recoger datos desde la consola y almacenarlos en "p"`
+`Persona p = new Persona(); // TODO recoger datos desde la consola y almacenarlos en "p"`
 
 Ejemplo de lectura de la entrada estándar:
 
